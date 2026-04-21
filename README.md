@@ -6,3 +6,6 @@ programación orientada a objetos
 
 # objetos
 <img width="585" height="520" alt="image" src="https://github.com/user-attachments/assets/76c19d47-cac4-4a3b-8843-e8f6a83e4fa2" />
+
+<img width="364" height="369" alt="image" src="https://github.com/user-attachments/assets/80fe944e-47c0-4961-b242-d4271e64d37b" />
+
